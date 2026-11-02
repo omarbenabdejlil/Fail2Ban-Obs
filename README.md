@@ -1,4 +1,4 @@
-# 🛡️ Fail2ban Security Dashboard — Prometheus + Grafana
+# 🛡️ Fail2ban Security Dashboard & Prometheus + Grafana
 
 Turn your **fail2ban** data into a live **Grafana** security dashboard: bans, failed SSH attempts, a world map of attackers, top attacking IPs, countries and hosting providers.
 
